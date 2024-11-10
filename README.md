@@ -1,3 +1,17 @@
+# Null Pointer - Repositorio del Proyecto Integrador
+
+## Integrantes:
+- Cristian Gimenez :man_technologist:
+- Bestabé Gutierrez
+- Santiago Martos
+- Mauro Ulloa
+- Sofia Torres
+- Victoria Galdona
+- Axel Arrieta
+- Valentin Rinckeisen
+- Quiles Horacio
+- Juan Vera
+
 # Juego del Ahorcado
 
 ## Descripción
